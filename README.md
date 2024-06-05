@@ -18,28 +18,7 @@ The project is divided into several sections:
 
 ## Files
 
-- `classification.ipynb`: Jupyter Notebook containing the code and explanations.
-- `report.tex`: LaTeX file of the detailed report.
-- `README.md`: This file.
-
-Results
-The results of the classification are summarized in the report. The key findings are:
-
-The Hard-Margin SVM performs perfectly on the linearly separable dataset D1.
-The Soft-Margin SVM handles the non-separable dataset D2 well, but does not achieve perfect accuracy.
-The Two-Layer MLP achieves high accuracy on both datasets, outperforming the Soft-Margin SVM on the non-separable dataset D2.
-Report
-A detailed report is provided in LaTeX format (report.tex). The report includes:
-
-An introduction to the problem and datasets.
-A detailed description of the classifiers used.
-Visualization of the decision boundaries and support vectors.
-A comparison of the classifier performances.
-Conclusions and future work.
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-For any questions or feedback, please contact [your email].
+For any questions or feedback, please contact [furkan.goksu.399@gmail.com].
 
 
 
