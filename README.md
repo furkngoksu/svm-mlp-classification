@@ -16,7 +16,7 @@ The project is divided into several sections:
 
 5. **Comparison and Conclusion**: The performance of the classifiers is compared, highlighting the strengths and weaknesses of each approach.
 
-For any questions or feedback, please contact (furkan.goksu.399@gmail.com).
+For any questions or feedback, please contact furkan.goksu.399@gmail.com.
 
 
 
